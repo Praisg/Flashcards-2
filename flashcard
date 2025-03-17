@@ -1,0 +1,11 @@
+<script>start("/Users/praisegavi/Desktop/Flashcards-2/Flashcards-2/flashcard/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("node_modules","node_modules",1,3648,"3.6 kB",1742188903,"3/17/25, 12:21:43 AM");</script>
+<script>addRow("public","public",1,96,"96 B",1742188903,"3/17/25, 12:21:43 AM");</script>
+<script>addRow("src","src",1,288,"288 B",1742188903,"3/17/25, 12:21:43 AM");</script>
+<script>addRow(".gitignore",".gitignore",0,253,"253 B",1742188902,"3/17/25, 12:21:42 AM");</script>
+<script>addRow("eslint.config.js","eslint.config.js",0,844,"844 B",1742188902,"3/17/25, 12:21:42 AM");</script>
+<script>addRow("index.html","index.html",0,361,"361 B",1742188902,"3/17/25, 12:21:42 AM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,92949,"90.8 kB",1742188903,"3/17/25, 12:21:43 AM");</script>
+<script>addRow("package.json","package.json",0,607,"607 B",1742188903,"3/17/25, 12:21:43 AM");</script>
+<script>addRow("vite.config.js","vite.config.js",0,161,"161 B",1742188903,"3/17/25, 12:21:43 AM");</script>
